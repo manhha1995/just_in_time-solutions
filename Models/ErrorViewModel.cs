@@ -1,5 +1,4 @@
 using System;
-
 namespace just_in_time_solutions.Models
 {
     public class ErrorViewModel
