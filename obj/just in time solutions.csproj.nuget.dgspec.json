@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hanm/Desktop/just in time solutions/just in time solutions.csproj": {}
+  },
+  "projects": {
+    "/Users/hanm/Desktop/just in time solutions/just in time solutions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hanm/Desktop/just in time solutions/just in time solutions.csproj",
+        "projectName": "just in time solutions",
+        "projectPath": "/Users/hanm/Desktop/just in time solutions/just in time solutions.csproj",
+        "packagesPath": "/Users/hanm/.nuget/packages/",
+        "outputPath": "/Users/hanm/Desktop/just in time solutions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hanm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.601, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

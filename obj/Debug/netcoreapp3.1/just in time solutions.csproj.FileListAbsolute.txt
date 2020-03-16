@@ -1,0 +1,6 @@
+/Users/hanm/Desktop/just in time solutions/obj/Debug/netcoreapp3.1/just in time solutions.csprojAssemblyReference.cache
+/Users/hanm/Desktop/just in time solutions/obj/Debug/netcoreapp3.1/just in time solutions.MvcApplicationPartsAssemblyInfo.cache
+/Users/hanm/Desktop/just in time solutions/obj/Debug/netcoreapp3.1/just in time solutions.RazorAssemblyInfo.cache
+/Users/hanm/Desktop/just in time solutions/obj/Debug/netcoreapp3.1/just in time solutions.RazorAssemblyInfo.cs
+/Users/hanm/Desktop/just in time solutions/obj/Debug/netcoreapp3.1/just in time solutions.AssemblyInfoInputs.cache
+/Users/hanm/Desktop/just in time solutions/obj/Debug/netcoreapp3.1/just in time solutions.AssemblyInfo.cs
