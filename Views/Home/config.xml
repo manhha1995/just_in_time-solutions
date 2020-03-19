@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <row>
+    <title>Tin mới nhất</title>
+    <content>Khuyến cáo người già hạn chế ra ngoài đường</content>
+    <News_ID>1</News_ID>
+    <Column_ID>1</Column_ID>
+    <ID>1</ID>
+    <order_name>1</order_name>
+  </row>
+  <row>
+    <title>Thời sự</title>
+    <content>Khu dân cư ở Sài Gòn bị phong tỏa</content>
+    <News_ID>2</News_ID>
+    <Column_ID>2</Column_ID>
+    <ID>2</ID>
+    <order_name>2</order_name>
+  </row>
+  <row>
+    <title>Thế giới</title>
+    <content>Số ca tử vong do nCoV ở Indonesia</content>
+    <News_ID>3</News_ID>
+    <Column_ID>3</Column_ID>
+    <ID>3</ID>
+    <order_name>3</order_name>
+  </row>
+  <row>
+    <title>Thể thao</title>
+    <content>Ngoại hạng Anh hoãn đến 30/4</content>
+    <News_ID>4</News_ID>
+    <Column_ID>4</Column_ID>
+    <ID>4</ID>
+    <order_name>4</order_name>
+  </row>
+  <row>
+    <title>Khoa học</title>
+    <content>Siêu máy tính mạnh nhất thế giới</content>
+    <News_ID>5</News_ID>
+    <Column_ID>5</Column_ID>
+    <ID>5</ID>
+    <order_name>5</order_name>
+  </row>
+  <row>
+    <title>Kinh doanh</title>
+    <content>Grab sẽ giao đồ ăn không tiếp xúc</content>
+    <News_ID>6</News_ID>
+    <Column_ID>6</Column_ID>
+    <ID>6</ID>
+    <order_name>6</order_name>
+  </row>
+  <row>
+    <title>Số hoá</title>
+    <content>op tính năng "đáng đồng tiền" trên Oppo Find X2</content>
+    <News_ID>7</News_ID>
+    <Column_ID>7</Column_ID>
+    <ID>7</ID>
+    <order_name>7</order_name>
+  </row>
+  <row>
+    <title>Startup</title>
+    <content>Startup "trà đá" bàn chuyện đưa Blockchain Việt</content>
+    <News_ID>8</News_ID>
+    <Column_ID>8</Column_ID>
+    <ID>8</ID>
+    <order_name>8</order_name>
+  </row>
+</data>
